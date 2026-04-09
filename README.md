@@ -1,7 +1,6 @@
-<h1> Hi there, Welcome to Kevin's github page 👋</h1>
+<h1> Hi there, Welcome to Jaehan's github page 👋</h1>
 </br>
 <p> I am a passionate, and goal oriented Fullstack developer in Calgary, Canada. <img src="https://cdn-icons-png.flaticon.com/512/323/323277.png" width="15"/> <br />
-I am currently working @Modern Beauty Supplies and focusing on developing application for internal sales reps by .NET Core, Angular, and Ionic Framework.
   </p>
   
   <br />
